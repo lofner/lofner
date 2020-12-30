@@ -14,6 +14,5 @@
 ![wakatime](https://img.shields.io/badge/-wakatime-black?style=flat-square&logo=wakatime)
 ![chrome](https://img.shields.io/badge/-google%20chrome-black?style=flat-square&logo=google%20chrome) <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lofner&layout=compact&count_private=true&theme=gruvbox" /> <br>
 ![Lukas Github Stats](https://github-readme-stats.vercel.app/api?username=lofner&show_icons=true&theme=radical) <br>
 ![NodePing status](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online) <br>
