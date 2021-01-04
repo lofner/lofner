@@ -14,6 +14,7 @@
 ![wakatime](https://img.shields.io/badge/-wakatime-black?style=flat-square&logo=wakatime)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
+![virtualbox](https://img.shields.io/badge/-VirtualBox-black?style=flat-square&logo=virtualbox)
 ![chrome](https://img.shields.io/badge/-google%20chrome-black?style=flat-square&logo=google%20chrome)
 
 ![Lukas Github Stats](https://github-readme-stats.vercel.app/api?username=lofner&show_icons=true&theme=radical) <br>
