@@ -18,4 +18,3 @@
 ![chrome](https://img.shields.io/badge/-google%20chrome-black?style=flat-square&logo=google%20chrome)
 
 ![Lukas Github Stats](https://github-readme-stats.vercel.app/api?username=lofner&show_icons=true&theme=radical) <br>
-![NodePing status](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online) <br>
